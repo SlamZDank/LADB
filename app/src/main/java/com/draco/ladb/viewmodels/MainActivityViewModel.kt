@@ -62,7 +62,8 @@ class MainActivityViewModel(application: Application) : AndroidViewModel(applica
      *
      * @param activity Activity to use when showing the error
      */
-    fun piracyCheck(activity: Activity) {
+   /* 
+      fun piracyCheck(activity: Activity) {
         if (checker != null || BuildConfig.DEBUG)
             return
 
@@ -80,6 +81,7 @@ class MainActivityViewModel(application: Application) : AndroidViewModel(applica
         if (!verified)
             checker?.start()
     }
+    */
 
     /**
      * Continuously update shell output
