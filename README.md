@@ -1,5 +1,5 @@
 # LADB
-A local ADB shell for Android, so you can delete samsung bloatware for free!
+A local ADB shell for Android, so you can "delete" samsung bloatware for free!
 
 # How does it work?
 LADB bundles an ADB server within the app libraries. Normally, this server cannot connect to the local device because it requires an active USB connection. However, Android's Wireless ADB Debugging feature allows the server and the client to speak to each other locally.
