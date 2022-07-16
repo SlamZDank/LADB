@@ -154,7 +154,7 @@ class MainActivity : AppCompatActivity() {
             badAbiDialog.show()
         }
 
-        viewModel.piracyCheck(this)
+        //viewModel.piracyCheck(this)
     }
 
     /**
