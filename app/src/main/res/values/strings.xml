@@ -24,7 +24,7 @@
     <string name="snackbar_file_opened">Executing script from file</string>
 
     <string name="developer_url">https://www.github.com/tytydraco</string>
-    <string name="source_url">https://www.github.com/tytydraco/LADB</string>
+    <string name="source_url">https://github.com/SlamZDank/LADB</string>
     <string name="contact_url">mailto:tylernij+LADB@gmail.com</string>
     <string name="tutorial_url">https://www.xda-developers.com/debloat-your-phone-run-adb-shell-commands-no-root-no-pc</string>
 
@@ -82,20 +82,20 @@
     <string name="error_inaccessible_title">Inaccessible or not found</string>
     <string name="error_inaccessible_summary">You have most likely written a command that is not valid. Remember, LADB is the equivalent of having already ran \"adb shell\" by default. See the \"Pair &amp; shell\" toggle.</string>
 
-    <string name="developer_title">Developer</string>
+    <string name="developer_title">Original Developer</string>
     <string name="developer_summary">Tyler Nijmeh</string>
     <string name="developer_key">developer</string>
 
     <string name="source_title">Source code</string>
-    <string name="source_summary">View the source code on GitHub</string>
+    <string name="source_summary">View the source code of this fork on GitHub.</string>
     <string name="source_key">source</string>
 
     <string name="contact_title">Contact</string>
-    <string name="contact_summary">Email the developper for assistance</string>
+    <string name="contact_summary">Email the original developper for assistance.</string>
     <string name="contact_key">contact</string>
 
     <string name="licenses_title">Licenses</string>
-    <string name="licenses_summary">View the open source licenses</string>
+    <string name="licenses_summary">View the open source licenses.</string>
     <string name="licenses_key">licenses</string>
 
     <string name="pref_file" translatable="false">preferences</string>
