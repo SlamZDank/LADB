@@ -91,7 +91,7 @@
     <string name="source_key">source</string>
 
     <string name="contact_title">Contact</string>
-    <string name="contact_summary">Email me for assistance</string>
+    <string name="contact_summary">Email the developper for assistance</string>
     <string name="contact_key">contact</string>
 
     <string name="licenses_title">Licenses</string>
